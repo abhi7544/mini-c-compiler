@@ -1,2 +1,2 @@
 # mini-c-compiler
-Compiler design project to design a c compiler
+Project to design a Mini C compiler
